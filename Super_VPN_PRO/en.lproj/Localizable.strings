@@ -1,0 +1,154 @@
+/* 
+  Localizable.strings
+  Super_VPN_PRO
+
+  Created by MacOSDaye on 2021/9/16.
+  
+*/
+AppName = "Super VPN Pro";
+TitleName = "Super VPN Pro";
+Connect = "Connect";
+Connecting = "Connecting";
+Connected = "Connected";
+ChooseYourLocation = "Choose your location";
+Line = "Line";
+Main = "Main";
+VIP = "VIP";
+Me = "Me";
+
+VIPPrivilege = "VIP Privilege";
+Audiovisual = "Access All Source You Want";
+Device = "One VIP For Multiple Devices";
+Smooth = "Enjoy HD Video Experience";
+Account = "Account";
+ConnectUs = "Connect Us";
+Policy = "Policy";
+RateUs = "Rate Us";
+Feedback = "Feedback";
+Setting = "Setting";
+AccountSetting = "Account Setting";
+User = "User";
+BindEmail = "Bind Email";
+Bind = "Bind";
+EnterYourEmail = "Enter Your Email";
+EnterVerifyCode = "Enter Verify Code";
+SendCode = "Send Code";
+PleaseEnterNewEmail = "Please Enter New Email";
+PleaseEnterNewVerifyCode = "Please Enter New Verify Code";
+
+VIPVariety = "VIP Variety";
+ExpireDate = "Expire Date";
+PurchaseDate = "Purchase Date";
+VIPDuration = "VIP Duration";
+VIPPrice = "VIP Price";
+PurchaseRecord = "Purchase Record";
+NoRecord = "No Record";
+ChangeEmail = "Change Email";
+PleaseEnterOldVerifyCode = "Please Enter Old Verify Code";
+BindNewEmail = "Bind New Email";
+PleasebindEmailFirst = "Please bind Email First";
+MessageCenter = "Message Center";
+Legion = "Legion";
+SystemVersion = "System Version";
+Type = "Type";
+ISP = "ISP";
+Free = "Free";
+VIPUser = "VIP";
+OnlyForVIPUser = "Only For VIP User";
+Beyond = "The content must include 2~140 words.";
+SendSuccessfully = "Send Successfully ";
+Send = "Send";
+BindingSucceed = "Binding Succeed";
+PLeaseEnterRightEmail = "PLease Enter Right Email";
+PleaseEnterRightVerifyCode = "Please Enter Right Verify Code";
+VerifyCode = "Verify Code";
+Tourist = "Tourist";
+Tips = "Tips";
+PleaseInstallQQFirst = "Please Install QQ First";
+OK = "OK";
+Cancel = "Cancel";
+ForcedUpdate = "Please update your app version first!";
+ReminderUpdate = "A new version is Available！Come to get it!";
+RequestFailed = "Request Failed";
+PleaseCheckYourNetwork = "Please Check Your Network";
+EnjoyGlobalMediaResourcesText = "Break the district restriction, give you same experience as you are at home";
+InvalidItem = "Invalid Purchase! Please try again!";
+Instruction = "Instruction";
+PrivacyPolicy = "Privacy Policy";
+TermsOfService = "Terms Of Service";
+Restore = "Restore";
+//UnboundMailboxPrompt = "Please Add Your Mail Account:";
+//UnboundMailboxPromptContent = "Settings->Mail,Contacts,Calendars->Add Account";
+More = "More";
+IsBlock = "According to relevant laws and regulations, this application cannot be used in your country or region!";
+NoServers = "No Servers";
+NoMessages = "No Messages";
+RewardAD = "Reward AD";
+Protocol = "Protocol";
+SmartMode = "Smart";
+GlobalMode = "Global";
+SVP_Trial = "Subscribe";
+SVP_Anomaly = "Please check your network";
+Maintain = "The server is maintaining";
+//ContactUs = "Please contact us with support email if you have any problem";
+ProblemDescribtion = "Problem describtion:";
+TicketNumber = "Ticket number";
+EarnRewards = "You have been prolonged by Ad Reward";
+RewardFailure = "Ad Reward reaches the limit";
+Remain = "Remain";
+Exhausted = "Run out of trial traffic";
+TimeOver = "Trial time is over";
+AdLoadingFailed = "Ads failed to load maybe not ready";
+Parameter = "missing parameter: ip";
+OtherAgents = "Detected a Running Proxy\nPlease close it to use the app";
+//Description = "30 mins free time";
+NoAds = "No available ads";
+DataError = "backstage  data error";
+DifferentTime = "Local time differ with server time";
+////激活
+//ActivationCenter = "activation center";
+//ActivationCode = "Please enter the activation code";
+//Activation = "activate";
+//Activation1 = "Invite Code Actived";//邀请码已激活
+//Activation2 = "Please enter right invite code";
+
+
+//status1 = "Receive";//领取
+//status2 = "Finished";//已完成
+//status3 = "Unfinish";//未完成
+//status4 = "Congratulations!";//恭喜你
+//status5 = "Received";//已领取
+//status6 = "You have unfinished missions";//您的任务尚未完成
+//status7 = "Your mission has completed";//您的任务已经完成
+//status8 = "You have logined today";//您今天已经登录
+//status9 = "You don't invite any firends now";//您现在没邀请任何朋友
+//status10 = "You get SEVEN FREE day VIP time";//您将获得一天的免费VIP时间
+//status11 = "Got it!";
+
+////任务中心
+//MissonCenter = "Misson Center";
+//task1 = "Login daily";
+//task2 = "Rate Us";
+//task3 = "Watch ADs";
+//task4 = "Invite Friend";
+//task5 = "Share to";
+
+//AllTasks = "Complete all missions to get final rewards";
+//
+////邀请码
+//Code1 = "Invite Code";
+//Code2 = "Copied";
+//Code3 = "Share to firend";
+//protocol
+protocolA1 = "Protocol A";
+protocolA2 = "Speed to connect";
+protocolA3 = "Speed after connected";
+protocolA4 = "Secyrity";
+protocolA5 = "Stabilization";
+protocolB1 = "Protocol B";
+protocolC1 = "Protocol C";
+
+CloseOther = "Please turn off other proxy before connection";
+lineFull = "Current Servers are full loading,Please choose other location";
+LineProblem = "Selected location is slow, please choose another one";
+ManualTips = "Please choose the line manually";
